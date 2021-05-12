@@ -1,4 +1,4 @@
-- I’m @Menchik, Allan.
+- I’m Allan Menchik.
 - Currently a computer engineering student at UFMS
 - Interested in everything programming, just starting out
 - Working on projects to learn more about programming as a whole
