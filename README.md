@@ -1,7 +1,7 @@
 - I’m Allan Menchik.
 - Currently a computer engineering student at UFMS
 - Interested in everything programming, just starting out
-- Learning
+- Learning object oriented programming and data structures
 - I can speak, write and understand everything in english and portuguese
 - How to reach me: allanmenchikcunha@gmail.com
 
