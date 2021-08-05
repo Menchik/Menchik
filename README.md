@@ -1,10 +1,9 @@
 - I’m Allan Menchik.
 - Currently a computer engineering student at UFMS
-- Interested in everything programming
-- I can use Python, C, C++, Java and JavaScript
-- I know the basics of object oriented programming and some data structures
-- I can speak, write and understand everything in english and portuguese
-- Working on some personal projects
+- Loving everything to do with programming
+- I can use Python, C, C++, Java, HTML, CSS, Bootstrap, JavaScript and PHP
+- I can speak, write and understand everything in english and portuguese and I know a little french and spanish too
+- Studying fullstack web development
 - How to reach me: allanmenchikcunha@gmail.com
 
 <!---
