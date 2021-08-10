@@ -2,6 +2,7 @@
 <ul>
     <li>Estudante de Engenharia de Computação na UFMS (4° semestre)</li>
     <li>Fascinado por programação e ansioso para aprender mais</li>
+    <li>Atualmente estudo back-end Web Develepment</li>
     <li>
         Linguagens que vi na faculdade:
         <div style="display: inline_block"><br>
@@ -21,5 +22,4 @@
             <img align="center" alt="Allan-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
         </div>
     <li>Sou fluente tanto em português (nativo) quanto em inglês e consigo entender e falar um pouco de francês e espanhol</li>
-    <li>Atualmente estudo fullstack Web Develepment</li>
 </ul>
