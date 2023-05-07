@@ -1,8 +1,8 @@
 <h1>Allan Menchik</h1>
 <ul>
-    <li>Estudante de Engenharia de Computação na UFMS (4° semestre)</li>
-    <li>Fascinado por programação e ansioso para aprender mais</li>
-    <li>Atualmente estudo back-end Web Develepment</li>
+    <li>Estudante de Engenharia de Computação na UFMS (7° semestre)</li>
+    <li>Fascinado por programação e sempre em busca de mais aprendizado</li>
+    <li>Atualmente estudo machine learning e robótica</li>
     <li>
         Linguagens que uso:
         <div style="display: inline_block"><br>
